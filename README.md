@@ -1,6 +1,6 @@
 # advanced_regression
 
-# Bike demand Prediction
+# Sales Price Prediction
 > The main aim of this project is to predict the level of dependence of different factors on the Sales prices of houses. 
 
 
